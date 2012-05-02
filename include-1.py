@@ -8,3 +8,4 @@
 include '_version'
 
 The cow says MOOOOOOOOOO
+The duck says QUAAAAACK
