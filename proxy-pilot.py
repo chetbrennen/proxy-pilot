@@ -17,5 +17,5 @@
     print "                                  ||----w |"
     print "Power to teh cows!                ||     ||"
     print "________________________________________________"
-    print ""
+    print "---"
  #eof   
